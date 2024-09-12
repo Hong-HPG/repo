@@ -173,6 +173,38 @@ Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 Name: PKC_无根
 
+Package: com.dumpapp.wechat
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: WeChat
+Installed-Size: 24240
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/锤子助手_2.0.1.deb
+Size: 9398110
+MD5sum: 1f12ed561d17be4f2bbe3dc35d8bf197
+SHA1: a275c6c6b3b0c39cf272cc34aa1319f3aff6c900
+SHA256: c652c74360d56891ca4055c365f5a7f5e531fb1a6acc7e7deddd2b4b92e61f3f
+Section: Tweaks
+Description: 锤子助手插件
+Author: DumpApp
+Name: 锤子助手
+
+Package: com.dumpapp.wechat-rootless
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 24000
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/锤子助手_2.0.1无根.deb
+Size: 9329474
+MD5sum: 4c9e39f53db5740abc1851ea14fe4130
+SHA1: 21ec3fb45a63f57300bdd42e9498d0585e6a2c2f
+SHA256: 6f7b671d1a535ba5b18beb42ec6ac187840c18d9a702a8eedaf255a07c7d755f
+Section: Tweaks
+Description: 锤子助手插件
+Author: DumpApp
+Name: 锤子助手-Rootless
+
 Package: com.huami.WCAtPure
 Version: 1.0.0
 Architecture: iphoneos-arm64
