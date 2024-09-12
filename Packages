@@ -165,6 +165,27 @@ Description: An awesome SwiftUI application!
 Author: Ketty Allen
 Name: TweakTool
 
+Package: com.kingpuffdaddi.control-center.ccvpn
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 187
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: debs/CCVPN_1.0.6_iphoneos-arm64.deb
+Size: 19558
+MD5sum: dc024881a241db02763c1eeadeccc3cb
+SHA1: 488c48cea3002a5af96751d0d0f5ece0ef73d604
+SHA256: 292286134ecf4088080fc7ef1790a14923257cb48d4e5d881613ffbad74e6650
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
+Description: A Control Center Module to connect/disconnect VPN
+Tag: purpose::extension
+Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
+Dev: kingpuffdaddi
+Icon: file:///Library/ControlCenter/Bundles/CCVPN.bundle/Icon@2x.png
+Name: CCVPN
+
 Package: com.lenglengyu.iapstorefugu-rootless
 Version: 0.0.2
 Architecture: iphoneos-arm64
