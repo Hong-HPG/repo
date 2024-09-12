@@ -18,26 +18,6 @@ Description: Apibug微信文字转语音插件,官网:www.apibug.com
 Author: www.apibug.com
 Name: ApibugTextToVoice
 
-Package: ApibugTextToVoice
-Version: 1.0.5
-Architecture: iphoneos-arm
-Essential: no
-Maintainer: www.apibug.com <apibug6@gmail.com>
-Depends: mobilesubstrate
-Conflicts: ApibugTextToVoice
-Replaces: ApibugTextToVoice
-Provides: ApibugTextToVoice
-Filename: debs/免费微信文字转语音插件-有根.deb
-Size: 162148
-MD5sum: eb1287409abe56f18298cb0854fde7a3
-SHA1: 14e0a64e24d9759e238e803d85449ebd79d936d5
-SHA256: 67b95dbf91f6bd8be1641049ed1c4a2b2c8dd254256094205c5f2be8abb2dbb7
-Section: custom
-Priority: optional
-Description: Apibug微信文字转语音插件,官网:www.apibug.com
-Author: www.apibug.com
-Name: ApibugTextToVoice
-
 Package: MisakaHelper
 Version: 2.1-0
 Architecture: iphoneos-arm64
@@ -91,21 +71,6 @@ Name: 黄白助手(微信插件)-Rootless
 
 Package: com.HBWechatHelper.ailun
 Version: 1.7.4
-Architecture: iphoneos-arm
-Maintainer: HuangBai <QQ:1343309363@qq.com>
-Depends: mobilesubstrate
-Filename: debs/黄白助手1.7.4_fix.deb
-Size: 9393908
-MD5sum: 3950410ff8aa013a7d76fdc14edb521f
-SHA1: 4b6ec449fc2dee23e4b3cf41dcfb3adf79bbcbaa
-SHA256: 67ee1ae92a78c50df238df08b3c6c40c1836c0ffa38bcb4b96674e5a1cfee8d0
-Section: Mao
-Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
-Author: HuangBai <QQ:1343309363@qq.com>
-Name: 黄白助手(微信插件)
-
-Package: com.HBWechatHelper.ailun
-Version: 1.7.4
 Architecture: iphoneos-arm64
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: mobilesubstrate
@@ -119,95 +84,20 @@ Description: 黄白助手-微信插件                                          
 Author: HuangBai <QQ:1343309363@qq.com>
 Name: 黄白助手(微信插件)-Rootless
 
-Package: com.curtin.pkc
-Version: 0.5-9-Beta1
-Architecture: iphoneos-arm
-Maintainer: curtinlv@126.com
-Depends: firmware (>= 5.0)
-Filename: debs/PKC_0.5-9-Beta1.deb
-Size: 554260
-MD5sum: 69b306b77d9da5f6bcb0f1a2d5534484
-SHA1: c675b2fa30186c91c8631e73aea1603d00b37cdb
-SHA256: 238f56241001c10c3b1392e2ffd3b2f7e6218baabd7f4cd89e904d49fe0fd74e
-Section: PKC-插件
-Priority: optional
-Homepage: https://github.com/curtinlv
-Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
-Author: Curtin
-Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
-Name: PKC
-
-Package: com.curtin.pkc
-Version: 0.5-9-Beta2
-Architecture: iphoneos-arm
-Maintainer: curtinlv@126.com
-Depends: firmware (>= 5.0)
-Filename: debs/PKC_0.5-9-Beta2.deb
-Size: 565776
-MD5sum: 70503d17fc76f4b92787d387cb664dd8
-SHA1: 8e401b17dd8b9ba9514cd47e78024d9d2eb93862
-SHA256: 5855a6a0fb1232a2a2337c403e8fa0dfef26dea70a36828310bca4da667f6feb
-Section: PKC-插件
-Priority: optional
-Homepage: https://github.com/curtinlv
-Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
-Author: Curtin
-Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
-Name: PKC
-
-Package: com.curtin.pkc
-Version: 0.5-9-Beta3
-Architecture: iphoneos-arm
-Maintainer: curtinlv@126.com
-Depends: firmware (>= 5.0)
-Filename: debs/PKC_0.5-9-Beta3.deb
-Size: 567828
-MD5sum: 112cb15faf5b11048191207997b00cbd
-SHA1: e8c59c0242380ae3384373bef403df7c44226caa
-SHA256: a4fbc540a688ae01ff819463a3ecb90d1d3121bfcff9e2349208fec0c3365a14
-Section: PKC-插件
-Priority: optional
-Homepage: https://github.com/curtinlv
-Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
-Author: Curtin
-Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
-Name: PKC
-
-Package: com.curtin.pkc
-Version: 0.5-9-Beta4
-Architecture: iphoneos-arm
-Maintainer: curtinlv@126.com
-Depends: firmware (>= 5.0)
-Filename: debs/PKC_0.5-9-Beta4.deb
-Size: 568960
-MD5sum: de07f5e358c891e9d5835adf459a6697
-SHA1: 346b59934e6f0ba469ecc18cfdc9bb916a38abc1
-SHA256: 6c8750ea87f44baeea851060f9ebb716a2c92f7b65d5790d938f9cb3f4739068
-Section: PKC-插件
-Priority: optional
-Homepage: https://github.com/curtinlv
-Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
-Author: Curtin
-Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
-Name: PKC
-
-Package: com.curtin.pkc
-Version: 0.5-9-Beta5
-Architecture: iphoneos-arm
-Maintainer: curtinlv@126.com
-Depends: firmware (>= 5.0)
-Filename: debs/PKC_0.5-9-Beta5.deb
-Size: 570364
-MD5sum: bc63e3db69ad921b7d30447e3e746e3f
-SHA1: a2ad2599843d979ac341f79a300ba3d63ff9d1ae
-SHA256: 17c239cdb9de9e789f9a4f18bc39f6d8cda455062afcc63d556fc8ce27c01b4c
-Section: PKC-插件
-Priority: optional
-Homepage: https://github.com/curtinlv
-Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
-Author: Curtin
-Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
-Name: PKC
+Package: com.HBWechatHelper.ailun
+Version: 1.7.4
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/黄白助手1.7.4_无根（测试fix3）.deb
+Size: 9205696
+MD5sum: 1bf462937b8b3a9e436d75fd58c6531c
+SHA1: a760b27f2b45ffb9f0b0e30e0c217a7d155be764
+SHA256: b1d54465e228f9ac64b4dd7ba887f3202a54cc6f88a0ba36ba32223551ce670a
+Section: Mao
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Name: 黄白助手(微信插件)-Rootless
 
 Package: com.curtin.pkc.rootless
 Version: 0.5-9-Beta1
@@ -299,22 +189,6 @@ Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 Name: PKC_无根
 
-Package: com.dumpapp.wechat
-Version: 2.0.1
-Architecture: iphoneos-arm
-Maintainer: WeChat
-Installed-Size: 24240
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: debs/锤子助手_2.0.1.deb
-Size: 9398110
-MD5sum: 1f12ed561d17be4f2bbe3dc35d8bf197
-SHA1: a275c6c6b3b0c39cf272cc34aa1319f3aff6c900
-SHA256: c652c74360d56891ca4055c365f5a7f5e531fb1a6acc7e7deddd2b4b92e61f3f
-Section: Tweaks
-Description: 锤子助手插件
-Author: DumpApp
-Name: 锤子助手
-
 Package: com.dumpapp.wechat-rootless
 Version: 2.0.1
 Architecture: iphoneos-arm64
@@ -358,6 +232,22 @@ Size: 1214938
 MD5sum: ef8ba286d341de1d5ec0907667fc478e
 SHA1: efc59313ec348319df945a2966c416c6d4d4d2b0
 SHA256: cd3a7a33c901987b5ed8350d420428933698b36ab7b5b9652559282079aa11bc
+Section: Utilities
+Description: An awesome SwiftUI application!
+Author: Ketty Allen
+Name: TweakTool
+
+Package: com.ketty.tweaktool
+Version: 0.0.1-851+debug
+Architecture: iphoneos-arm64
+Maintainer: Ketty Allen
+Installed-Size: 3288
+Depends: firmware (>= 14.0)
+Filename: debs/com.ketty.tweaktool_0.0.1-851+debug_iphoneos-arm64.deb
+Size: 1099190
+MD5sum: 73ec6f2e02901c3605eed255400a0966
+SHA1: 0692ce324f4390d7c66b33b787b354fce418a4ed
+SHA256: e2647e77943e2947ae17d48894648e0c70fa4dd419150846a2e8bc35b268d6e9
 Section: Utilities
 Description: An awesome SwiftUI application!
 Author: Ketty Allen
@@ -449,21 +339,6 @@ Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟
 Author: 平凡
 Name: 虚拟视频
 
-Package: com.pingfan.wechat
-Version: 2.2-1
-Architecture: iphoneos-arm
-Maintainer: 平凡
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/虚拟视频_2.2-1_0906有根.deb
-Size: 1604844
-MD5sum: 109452e43d529940c53f1a7cdbe3384f
-SHA1: cdf204e6e43d68c10549053c64c457d35ca2200b
-SHA256: cb61fcee820121d415d15fa8e3bf1d0fee358e0c1a4f48dfdc08dbef0f9db24e
-Section: Tweaks
-Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,等;修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏新增朋友圈转发、修改聊天时间等。
-Author: 平凡
-Name: 虚拟视频
-
 Package: com.tencent.voices.rootless
 Version: 1.0-5
 Architecture: iphoneos-arm64
@@ -492,21 +367,6 @@ Size: 6176
 MD5sum: 351621f95378fb359bcea611da05dfd0
 SHA1: 7a74c343a0e9846df94ba3aad32b8788f6cba945
 SHA256: 675fc8b520361e93fa4ac2101f262a893948b864deb9f54042e8d5af2caf3320
-Description: 注入即生效，没有任何设置。
-Author: 王富贵
-Name: 匿名艾特Carck
-
-Package: com.tencent.xin
-Version: 0.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: 王富贵
-Installed-Size: 76
-Depends: mobilesubstrate
-Filename: debs/匿名艾特Carck_0.0.1有根.deb
-Size: 5696
-MD5sum: 24d5529d0e60b6a8a0105c43f132c240
-SHA1: 4362bd47bd5aaa87889517fd4ddffc90df85b4f3
-SHA256: 47f2e8c28ac22af1eb468ee1a902d3a1ff7b21abfa6dda6d6186865c930b0ac5
 Description: 注入即生效，没有任何设置。
 Author: 王富贵
 Name: 匿名艾特Carck
