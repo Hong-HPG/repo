@@ -119,6 +119,114 @@ Description: 黄白助手-微信插件                                          
 Author: HuangBai <QQ:1343309363@qq.com>
 Name: 黄白助手(微信插件)-Rootless
 
+Package: com.curtin.pkc
+Version: 0.5-9-Beta1
+Architecture: iphoneos-arm
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: debs/PKC_0.5-9-Beta1.deb
+Size: 554260
+MD5sum: 69b306b77d9da5f6bcb0f1a2d5534484
+SHA1: c675b2fa30186c91c8631e73aea1603d00b37cdb
+SHA256: 238f56241001c10c3b1392e2ffd3b2f7e6218baabd7f4cd89e904d49fe0fd74e
+Section: PKC-插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC
+
+Package: com.curtin.pkc
+Version: 0.5-9-Beta2
+Architecture: iphoneos-arm
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: debs/PKC_0.5-9-Beta2.deb
+Size: 565776
+MD5sum: 70503d17fc76f4b92787d387cb664dd8
+SHA1: 8e401b17dd8b9ba9514cd47e78024d9d2eb93862
+SHA256: 5855a6a0fb1232a2a2337c403e8fa0dfef26dea70a36828310bca4da667f6feb
+Section: PKC-插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC
+
+Package: com.curtin.pkc
+Version: 0.5-9-Beta3
+Architecture: iphoneos-arm
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: debs/PKC_0.5-9-Beta3.deb
+Size: 567828
+MD5sum: 112cb15faf5b11048191207997b00cbd
+SHA1: e8c59c0242380ae3384373bef403df7c44226caa
+SHA256: a4fbc540a688ae01ff819463a3ecb90d1d3121bfcff9e2349208fec0c3365a14
+Section: PKC-插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC
+
+Package: com.curtin.pkc
+Version: 0.5-9-Beta4
+Architecture: iphoneos-arm
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: debs/PKC_0.5-9-Beta4.deb
+Size: 568960
+MD5sum: de07f5e358c891e9d5835adf459a6697
+SHA1: 346b59934e6f0ba469ecc18cfdc9bb916a38abc1
+SHA256: 6c8750ea87f44baeea851060f9ebb716a2c92f7b65d5790d938f9cb3f4739068
+Section: PKC-插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC
+
+Package: com.curtin.pkc
+Version: 0.5-9-Beta5
+Architecture: iphoneos-arm
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: debs/PKC_0.5-9-Beta5.deb
+Size: 570364
+MD5sum: bc63e3db69ad921b7d30447e3e746e3f
+SHA1: a2ad2599843d979ac341f79a300ba3d63ff9d1ae
+SHA256: 17c239cdb9de9e789f9a4f18bc39f6d8cda455062afcc63d556fc8ce27c01b4c
+Section: PKC-插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC
+
+Package: com.curtin.pkc.rootless
+Version: 0.5-9-Beta1
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: debs/PKC_无根_0.5-9-Beta1.deb
+Size: 554576
+MD5sum: 95a173a4d422f3f32d5eca71029dc295
+SHA1: d48a48644018bbbd713e54fd42c5d5df7abf3ccc
+SHA256: 03719d949d7f4b2e153e6deac9080fc26563c1ea59d56d4abb7882ac5897e40a
+Section: PKC-插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+
 Package: com.curtin.pkc.rootless
 Version: 0.5-9-Beta2
 Architecture: iphoneos-arm64
@@ -129,6 +237,24 @@ Size: 565764
 MD5sum: da6e252ef576b5ad8a27eda3679632ef
 SHA1: 4faeb430316d80999f37344680057d55866a2bf3
 SHA256: 73835d5601c2a78805d04da60ee64d2ce849be17b49c60bfc33c406a88d4b575
+Section: PKC-插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+
+Package: com.curtin.pkc.rootless
+Version: 0.5-9-Beta3
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: debs/PKC_无根_0.5-9-Beta3.deb
+Size: 568048
+MD5sum: 0522c05cc4a5cf5e53a707b1ee83228f
+SHA1: e9645c303c3ce718f6b18e3f26bf0a58931236ab
+SHA256: baed97e262a8a88d5031c905f670985a4bf73b8c49e248066a37281e28b77ef7
 Section: PKC-插件
 Priority: optional
 Homepage: https://github.com/curtinlv
@@ -384,6 +510,25 @@ SHA256: 47f2e8c28ac22af1eb468ee1a902d3a1ff7b21abfa6dda6d6186865c930b0ac5
 Description: 注入即生效，没有任何设置。
 Author: 王富贵
 Name: 匿名艾特Carck
+
+Package: netskao.wcpureextension-rootless
+Version: 4.2-6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 19660
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: netskao.wechatpurification-rootless
+Replaces: netskao.wechatpurification-rootless
+Provides: netskao.wechatpurification-rootless
+Filename: debs/netskao.wcpureextension-rootless_4.2-6_iphoneos-arm64.deb
+Size: 7084492
+MD5sum: 2419d66b639cf5380bce669e9dc80c0d
+SHA1: 3a6c7410c3ae31bcc4e7ee5e6022c605c973d370
+SHA256: 9df8a617821624f60c67f2b959b594d149a64573e3bddb6d80fa870668ae4b80
+Section: Netskao-Tweaks
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
+Author: Netskao
+Name: 微信净化-Rootless
 
 Package: netskao.wechatpurification
 Version: 4.2-6-END
