@@ -14,7 +14,7 @@ SHA1: 983b13f5a2458b197fb1be12e1e705289f409258
 SHA256: 0f748e1d5384180e1135e7da216c4fb65c8cb22cb41ac7fda42ceb1db672b75b
 Section: custom
 Priority: optional
-Description: Apibug微信文字转语音插件,官网:www.apibug.com
+Description: Apibug微信文字转语音插件
 Author: www.apibug.com
 Name: ApibugTextToVoice
 
