@@ -18,6 +18,22 @@ Description: MisakaHelper
 Author: Misaka
 Name: MisakaHelper
 
+Package: com.25mao.miyou.rootless
+Version: 3.8-0
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/微信助手3.8-0-无根.deb
+Size: 14299938
+MD5sum: ebd54bd8d9955e639abbc414fcda9e8a
+SHA1: 86379d19ebd687cec19e87257064003921f6e1fb
+SHA256: 7e63e83cd9ebb1f561cbc487099854a9c8c198dd13daf078bc4d29941550b1a0
+Section: Tweaks
+Priority: optional
+Description: 微信助手
+Author: Mao
+Name: 微信助手
+
 Package: com.curtin.pkc.rootless
 Version: 0.5-9-Beta2
 Architecture: iphoneos-arm64
