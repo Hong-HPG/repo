@@ -7,7 +7,7 @@ Depends: mobilesubstrate
 Conflicts: ApibugTextToVoice
 Replaces: ApibugTextToVoice
 Provides: ApibugTextToVoice
-Filename: debians/免费微信文字转语音插件-无根.deb
+Filename: debs/免费微信文字转语音插件-无根.deb
 Size: 168896
 MD5sum: 637c5aa4698154ddf8e596a7400966a6
 SHA1: 983b13f5a2458b197fb1be12e1e705289f409258
@@ -27,7 +27,7 @@ Depends: mobilesubstrate
 Conflicts: ApibugTextToVoice
 Replaces: ApibugTextToVoice
 Provides: ApibugTextToVoice
-Filename: debians/免费微信文字转语音插件-有根.deb
+Filename: debs/免费微信文字转语音插件-有根.deb
 Size: 162148
 MD5sum: eb1287409abe56f18298cb0854fde7a3
 SHA1: 14e0a64e24d9759e238e803d85449ebd79d936d5
@@ -47,7 +47,7 @@ Depends: mobilesubstrate
 Conflicts: MisakaHelper
 Replaces: MisakaHelper
 Provides: MisakaHelper
-Filename: debians/MisakaHelper_END_iphoneos-arm64_rootless.deb
+Filename: debs/MisakaHelper_END_iphoneos-arm64_rootless.deb
 Size: 13176824
 MD5sum: dfdac07dbb49f5871e1f8bff89180faa
 SHA1: 9e80412e9766c8e3dae868cd796d6f374c7057c2
@@ -63,7 +63,7 @@ Version: 3.8-0
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
-Filename: debians/微信助手3.8-0-无根.deb
+Filename: debs/微信助手3.8-0-无根.deb
 Size: 14299938
 MD5sum: ebd54bd8d9955e639abbc414fcda9e8a
 SHA1: 86379d19ebd687cec19e87257064003921f6e1fb
@@ -79,7 +79,7 @@ Version: 1.7.3
 Architecture: iphoneos-arm64
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: mobilesubstrate
-Filename: debians/黄白助手1.7.3_无根.deb
+Filename: debs/黄白助手1.7.3_无根.deb
 Size: 9038504
 MD5sum: 49b47c16acc1a31a59f59dee7d13930e
 SHA1: f857977fb5e9e7040d6d867a088256b77a1a296f
@@ -94,7 +94,7 @@ Version: 1.7.4
 Architecture: iphoneos-arm
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: mobilesubstrate
-Filename: debians/黄白助手1.7.4_fix.deb
+Filename: debs/黄白助手1.7.4_fix.deb
 Size: 9393908
 MD5sum: 3950410ff8aa013a7d76fdc14edb521f
 SHA1: 4b6ec449fc2dee23e4b3cf41dcfb3adf79bbcbaa
@@ -109,7 +109,7 @@ Version: 1.7.4
 Architecture: iphoneos-arm64
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: mobilesubstrate
-Filename: debians/黄白助手1.7.4_fix无根.deb
+Filename: debs/黄白助手1.7.4_fix无根.deb
 Size: 9221980
 MD5sum: 52b1372500f6102d6632298eb1e5e3cc
 SHA1: 54b0f6ee15a496dc8ea997a6b5516f40e5921c63
@@ -124,7 +124,7 @@ Version: 0.5-9-Beta2
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: debians/PKC_无根_0.5-9-Beta2.deb
+Filename: debs/PKC_无根_0.5-9-Beta2.deb
 Size: 565764
 MD5sum: da6e252ef576b5ad8a27eda3679632ef
 SHA1: 4faeb430316d80999f37344680057d55866a2bf3
@@ -142,7 +142,7 @@ Version: 0.5-9-Beta4
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: debians/PKC_无根_0.5-9-Beta4.deb
+Filename: debs/PKC_无根_0.5-9-Beta4.deb
 Size: 568976
 MD5sum: f3ded299f47c8057441c05711f1214fc
 SHA1: 758bad6968dc5a6e312068caa5edfe11a899a9ba
@@ -160,7 +160,7 @@ Version: 0.5-9-Beta5
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: debians/PKC_无根_0.5-9-Beta5.deb
+Filename: debs/PKC_无根_0.5-9-Beta5.deb
 Size: 570560
 MD5sum: a8aa983dea97f4a33937da412c6818ef
 SHA1: 985e527927c677f67c196593cb7dc6b43282a4f5
@@ -178,7 +178,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: huami
 Depends: firmware (>= 7.0), mobilesubstrate
-Filename: debians/com.huami.WCAtPure_1.0.0_iphoneos-arm64_rootless.deb
+Filename: debs/com.huami.WCAtPure_1.0.0_iphoneos-arm64_rootless.deb
 Size: 94232
 MD5sum: e2f2ac8609607efb8f6c024ab50c16e5
 SHA1: 2d1341bfe61951309209c486e64c4992c0e4050f
@@ -195,7 +195,7 @@ Architecture: iphoneos-arm64
 Maintainer: Ketty Allen
 Installed-Size: 2972
 Depends: firmware (>= 14.0)
-Filename: debians/TweakTool_0.0.1-813+debug_iphoneos-arm64.deb
+Filename: debs/TweakTool_0.0.1-813+debug_iphoneos-arm64.deb
 Size: 1214938
 MD5sum: ef8ba286d341de1d5ec0907667fc478e
 SHA1: efc59313ec348319df945a2966c416c6d4d4d2b0
@@ -211,7 +211,7 @@ Architecture: iphoneos-arm64
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 187
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
-Filename: debians/CCVPN_1.0.6_iphoneos-arm64.deb
+Filename: debs/CCVPN_1.0.6_iphoneos-arm64.deb
 Size: 19558
 MD5sum: dc024881a241db02763c1eeadeccc3cb
 SHA1: 488c48cea3002a5af96751d0d0f5ece0ef73d604
@@ -232,7 +232,7 @@ Architecture: iphoneos-arm64
 Maintainer: lenglengyu <lenglengyu@126.com>
 Installed-Size: 384
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: debians/IAPStore-Rootless【内购神器】_0.0.2_iphoneos-arm64.deb
+Filename: debs/IAPStore-Rootless【内购神器】_0.0.2_iphoneos-arm64.deb
 Size: 64218
 MD5sum: d05d74d064d1cb624b0e12e824893cd6
 SHA1: 9db66b7d77cde2f7ecd95f03bad2cd56aaf43b0f
@@ -250,7 +250,7 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 3772
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: debians/AppData_1.4.2_iphoneos-arm64.deb
+Filename: debs/AppData_1.4.2_iphoneos-arm64.deb
 Size: 1254616
 MD5sum: fa292499f7fbe4245dbb2376d1039d5a
 SHA1: 5021ac0824a222264af2a25c46c7bc901588e83a
@@ -266,7 +266,7 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 2336
 Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
-Filename: debians/WeChatNotiAvatar_1.2-5_iphoneos-arm64.deb
+Filename: debs/WeChatNotiAvatar_1.2-5_iphoneos-arm64.deb
 Size: 824140
 MD5sum: aca33ff46cb34b5444f07acfa1cca710
 SHA1: e70c68f309eab8f21178050e397fd48c8b16b0d6
@@ -281,7 +281,7 @@ Version: 2.2-1
 Architecture: iphoneos-arm64
 Maintainer: 平凡
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debians/虚拟视频_2.2-1_0906无根.deb
+Filename: debs/虚拟视频_2.2-1_0906无根.deb
 Size: 2827958
 MD5sum: 4e4b0b32705fffd6ed28bada019aa333
 SHA1: 0d048b260c03a93dfcf38980e2aaa31a7689e4ff
@@ -296,7 +296,7 @@ Version: 2.2-1
 Architecture: iphoneos-arm
 Maintainer: 平凡
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debians/虚拟视频_2.2-1_0906有根.deb
+Filename: debs/虚拟视频_2.2-1_0906有根.deb
 Size: 1604844
 MD5sum: 109452e43d529940c53f1a7cdbe3384f
 SHA1: cdf204e6e43d68c10549053c64c457d35ca2200b
@@ -311,7 +311,7 @@ Version: 1.0-5
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
-Filename: debians/语音包-Rootless_1.0-5_iphoneos-arm64.deb
+Filename: debs/语音包-Rootless_1.0-5_iphoneos-arm64.deb
 Size: 10163608
 MD5sum: 41cfec91bf3af832cc5afa5b9e0c0078
 SHA1: 32cf2ed252957580656e8616eeb8b78387e4efa0
@@ -329,7 +329,7 @@ Architecture: iphoneos-arm64
 Maintainer: 王富贵
 Installed-Size: 76
 Depends: mobilesubstrate
-Filename: debians/匿名艾特Carck_0.0.1无根.deb
+Filename: debs/匿名艾特Carck_0.0.1无根.deb
 Size: 6176
 MD5sum: 351621f95378fb359bcea611da05dfd0
 SHA1: 7a74c343a0e9846df94ba3aad32b8788f6cba945
@@ -344,7 +344,7 @@ Architecture: iphoneos-arm
 Maintainer: 王富贵
 Installed-Size: 76
 Depends: mobilesubstrate
-Filename: debians/匿名艾特Carck_0.0.1有根.deb
+Filename: debs/匿名艾特Carck_0.0.1有根.deb
 Size: 5696
 MD5sum: 24d5529d0e60b6a8a0105c43f132c240
 SHA1: 4362bd47bd5aaa87889517fd4ddffc90df85b4f3
@@ -359,7 +359,7 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 16708
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: debians/微信净化_4.2-6-END-无根.deb
+Filename: debs/微信净化_4.2-6-END-无根.deb
 Size: 6278058
 MD5sum: e386a95420df2b52d4638bc60a7cd07e
 SHA1: ddff36cdf9de33b59a66b380b5eaa3c3244d6efa
