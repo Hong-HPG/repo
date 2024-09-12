@@ -1,3 +1,43 @@
+Package: ApibugTextToVoice
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: www.apibug.com <apibug6@gmail.com>
+Depends: mobilesubstrate
+Conflicts: ApibugTextToVoice
+Replaces: ApibugTextToVoice
+Provides: ApibugTextToVoice
+Filename: debs/免费微信文字转语音插件-无根.deb
+Size: 168896
+MD5sum: 637c5aa4698154ddf8e596a7400966a6
+SHA1: 983b13f5a2458b197fb1be12e1e705289f409258
+SHA256: 0f748e1d5384180e1135e7da216c4fb65c8cb22cb41ac7fda42ceb1db672b75b
+Section: custom
+Priority: optional
+Description: Apibug微信文字转语音插件,官网:www.apibug.com
+Author: www.apibug.com
+Name: ApibugTextToVoice
+
+Package: ApibugTextToVoice
+Version: 1.0.5
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: www.apibug.com <apibug6@gmail.com>
+Depends: mobilesubstrate
+Conflicts: ApibugTextToVoice
+Replaces: ApibugTextToVoice
+Provides: ApibugTextToVoice
+Filename: debs/免费微信文字转语音插件-有根.deb
+Size: 162148
+MD5sum: eb1287409abe56f18298cb0854fde7a3
+SHA1: 14e0a64e24d9759e238e803d85449ebd79d936d5
+SHA256: 67b95dbf91f6bd8be1641049ed1c4a2b2c8dd254256094205c5f2be8abb2dbb7
+Section: custom
+Priority: optional
+Description: Apibug微信文字转语音插件,官网:www.apibug.com
+Author: www.apibug.com
+Name: ApibugTextToVoice
+
 Package: MisakaHelper
 Version: 2.1-0
 Architecture: iphoneos-arm64
@@ -149,6 +189,36 @@ Author: huami
 Dev: huami
 Name: WCAtPure
 
+Package: com.iosrxwy.Telegrammask
+Version: 0.1-3
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.iosrxwy.Telegrammask_0.1-3_iphoneos-arm.deb
+Size: 653312
+MD5sum: 9ebcda3d0446a4eb91634bdbbf77e0e8
+SHA1: 20e5eeb4445b31816840593e2173384be91692af
+SHA256: dd57bd949b0f24c1ae1674e1d31a60da99743e7bd37f25105ad399a2c4fa4ff3
+Section: System
+Priority: optional
+Description: TG伪装计算器插件，密码为当前时间，如13:14密码为1314，00：56密码为56，24小时制为准。三指双击可自定义密码。
+Author: iosrxwy
+Name: Telegrammask
+
+Package: com.iosrxwy.Telegrammask
+Version: 0.1-3
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.iosrxwy.Telegrammask_0.1-3_iphoneos-arm64_rootless.deb
+Size: 678858
+MD5sum: 733135635c462455f9da45d503a93b7c
+SHA1: 49e4560e45051efe2dfb700e79fa5dc62380cad4
+SHA256: 3c12ea615f1a029a6450e541c4b9bf663878c8599ba49324170e631a19c0a6b6
+Section: System
+Priority: optional
+Description: TG伪装计算器插件，密码为当前时间，如13:14密码为1314，00：56密码为56，24小时制为准。三指双击可自定义密码。
+Author: iosrxwy
+Name: Telegrammask
+
 Package: com.ketty.tweaktool
 Version: 0.0.1-813+debug
 Architecture: iphoneos-arm64
@@ -236,6 +306,36 @@ Description: Display Notification Avatars for WeChat App using iOS15+ APIs
 Author: Netskao
 Name: WeChatNotiAvatar
 
+Package: com.pingfan.wechat
+Version: 2.2-1
+Architecture: iphoneos-arm64
+Maintainer: 平凡
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/虚拟视频_2.2-1_0906无根.deb
+Size: 2827958
+MD5sum: 4e4b0b32705fffd6ed28bada019aa333
+SHA1: 0d048b260c03a93dfcf38980e2aaa31a7689e4ff
+SHA256: cbf3e7f5792833cc1f59d25eedb222f2bbf946c85694096dbf84faa65d8116e4
+Section: Tweaks
+Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,等;修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏新增朋友圈转发、修改聊天时间等。
+Author: 平凡
+Name: 虚拟视频
+
+Package: com.pingfan.wechat
+Version: 2.2-1
+Architecture: iphoneos-arm
+Maintainer: 平凡
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/虚拟视频_2.2-1_0906有根.deb
+Size: 1604844
+MD5sum: 109452e43d529940c53f1a7cdbe3384f
+SHA1: cdf204e6e43d68c10549053c64c457d35ca2200b
+SHA256: cb61fcee820121d415d15fa8e3bf1d0fee358e0c1a4f48dfdc08dbef0f9db24e
+Section: Tweaks
+Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,等;修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏新增朋友圈转发、修改聊天时间等。
+Author: 平凡
+Name: 虚拟视频
+
 Package: com.tencent.voices.rootless
 Version: 1.0-5
 Architecture: iphoneos-arm64
@@ -252,4 +352,50 @@ Description: 微信本地收藏语音包
 Author: Mao
 Depiction: 微信本地收藏语音包
 Name: 语音包-Rootless
+
+Package: com.tencent.xin
+Version: 0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 王富贵
+Installed-Size: 76
+Depends: mobilesubstrate
+Filename: debs/匿名艾特Carck_0.0.1无根.deb
+Size: 6176
+MD5sum: 351621f95378fb359bcea611da05dfd0
+SHA1: 7a74c343a0e9846df94ba3aad32b8788f6cba945
+SHA256: 675fc8b520361e93fa4ac2101f262a893948b864deb9f54042e8d5af2caf3320
+Description: 注入即生效，没有任何设置。
+Author: 王富贵
+Name: 匿名艾特Carck
+
+Package: com.tencent.xin
+Version: 0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: 王富贵
+Installed-Size: 76
+Depends: mobilesubstrate
+Filename: debs/匿名艾特Carck_0.0.1有根.deb
+Size: 5696
+MD5sum: 24d5529d0e60b6a8a0105c43f132c240
+SHA1: 4362bd47bd5aaa87889517fd4ddffc90df85b4f3
+SHA256: 47f2e8c28ac22af1eb468ee1a902d3a1ff7b21abfa6dda6d6186865c930b0ac5
+Description: 注入即生效，没有任何设置。
+Author: 王富贵
+Name: 匿名艾特Carck
+
+Package: netskao.wechatpurification
+Version: 4.2-6-END
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 16708
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/微信净化_4.2-6-END-无根.deb
+Size: 6278058
+MD5sum: e386a95420df2b52d4638bc60a7cd07e
+SHA1: ddff36cdf9de33b59a66b380b5eaa3c3244d6efa
+SHA256: 61ab3d42b2d7a41c2dbc1670987874b3971c4ad33ca7c956544584785e2b71c6
+Section: Netskao-Tweaks
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
+Author: Netskao
+Name: 微信净化END
 
