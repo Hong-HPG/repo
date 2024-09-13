@@ -1,0 +1,31 @@
+name: Update Packages
+
+on:
+  push:
+    paths:
+      - 'debs/**'
+      - '.github/workflows/update-packages.yml'
+
+jobs:
+  update-packages:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Install dpkg
+      run: sudo apt-get install -y dpkg-dev
+
+    - name: Update Packages
+      run: |
+        dpkg-scanpackages -m debs/ > debs/Packages
+        gzip -c debs/Packages > debs/Packages.gz
+        bzip2 -k debs/Packages
+
+    - name: Commit updated Packages files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add debs/Packages debs/Packages.gz
+        git commit -m "Update Packages files" || echo "No changes to commit"
+        git push
