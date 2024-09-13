@@ -62,8 +62,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\u2023 1.优化[壁纸]功能，可自定义聊天窗口顶部、输入框、消息框透明度  
-2.修复[壁纸]bug  ",
+					"markdown": "\t\u2023 1.优化 壁纸功能，可自定义聊天窗口顶部、输入框、消息框透明度 \t\u2023 2.修复 壁纸bug  ",
 					"useSpacing": false,
 					"useBottomMargin": false,
 					"class": "DepictionMarkdownView"
