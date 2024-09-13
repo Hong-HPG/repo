@@ -17,7 +17,7 @@
 				},
 				{
 					"title": "版本",
-					"text": "0.5.9-beta6",
+					"text": "0.5-9-Beta6",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -55,7 +55,7 @@
 			"tabname": "更新日志",
 			"views": [
 				{
-					"title": "0.5.9-beta6",
+					"title": "0.5-9-Beta6",
 					"useBoldText": true,
 					"useSpacing": false,
 					"useBottomMargin": false,
