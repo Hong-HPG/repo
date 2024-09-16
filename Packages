@@ -38,113 +38,6 @@ Description: MisakaHelper
 Author: Misaka
 Name: MisakaHelper
 
-Package: byg.iosios.net.flex3
-Version: 1:3~Beta61
-Architecture: iphoneos-arm64
-Maintainer: 搬运工
-Depends: mobilesubstrate, firmware (>= 9.0)
-Conflicts: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, byg.iosios.net.flex3beta
-Replaces: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, flex3toolsonly
-Filename: debs/Flex 3 Beta程序修改器-Rootless_1:3~Beta61_iphoneos-arm64.deb
-Size: 21077348
-MD5sum: 8d6626b971011650d4e41f92de9cc0d3
-SHA1: c039d4730337a993bb1aece3f30b9691d27b1dc3
-SHA256: 35fad5b44c7ada3cd1dac55be6fe8552ae5b099d5a4a238c08660a9407a95a17
-Section: 系统增强
-Description: Develop your own tweaks and share them on the Flex Community Cloud作者今天刚维护更新的61beta-Rootless版本，兄弟们冲吧，如果打开闪退的话就进入系统设置里的显示与亮度，关闭粗体显示！免费账号每天可下载2个补丁，此账号可无限下载！sundasheng521@qq.com密码7758521a
-Author: John Coates
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: Flex 3 Beta程序修改器-Rootless
-Sponsor: 搬运工
-
-Package: byg.iosios.net.safarix
-Version: 1.3.0
-Architecture: iphoneos-arm64
-Maintainer: 搬运工
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: debs/SafariX浏览器增强-Rootless_1.3.0_iphoneos-arm64.deb
-Size: 330058
-MD5sum: 048add548488defe87049122cd0f4e38
-SHA1: 710fe329664f87b0ddfd554225026271a91e82d9
-SHA256: 5a09c1d116d298cbe93241436eef5f83e74072530962eef9dc964ac9d67b2baa
-Section: 系统增强
-Description: Safari Essential Features感谢搬运工源群友萝卜购买并分享此插件，非常感谢好萝卜！此插件为iPhone自带浏览器增强插件，功能非常的多，使用，强烈建议用safri的用户下载！已添加进刀刀源汉化文件，感谢妖刀，本插件非常的好用！推荐！
-Author: 0xkuj
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: SafariX浏览器增强-Rootless
-Sponsor: 搬运工
-
-Package: byg.iosios.net.settingsrevamp
-Version: 2.1.1
-Architecture: iphoneos-arm64
-Maintainer: 搬运工
-Installed-Size: 540
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
-Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader, com.hk.settingsrevamp.cn.rl
-Filename: debs/SettingsRevamp-设置归类-Rootless_2.1.1_iphoneos-arm64.deb
-Size: 138096
-MD5sum: 023649edfd8f1ffa5ae3c25475e01667
-SHA1: ec1b9f1fda6bd5d9bd96bb2797e32d9fe1bf445c
-SHA256: 3f9a25487c58e1dc569a177fbf70c67234b2966528a5b8105552395d77b231ed
-Section: 插件依赖
-Description: Customize the ios settings page插件设置归类，更新修复重多bug！插件已自带汉化，安装会自动移除中文包，无法更新可以先缷载再更新！现已支持顶图点击进入AppleID！
-Author: SOPPPra
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: SettingsRevamp-设置归类-Rootless
-Sponsor: 搬运工
-
-Package: byg.iosios.net.sugarcane
-Version: 1.2.4.3
-Architecture: iphoneos-arm64
-Maintainer: 搬运工
-Installed-Size: 172
-Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: debs/SugarCane音量-亮度显示百分比-Rootless_1.2.4.3_iphoneos-arm64.deb
-Size: 12832
-MD5sum: 50913efb9d1cb34ce4f633dd933f23d2
-SHA1: 41cd5e69bca49a8756f2d5b909a1761f4678a223
-SHA256: 37fb420a1316bf0f409397448b25e7285613823dc4ca1bdd7b9f8392d5089288
-Section: 系统增强
-Description: SugarCane 是一款控制中心亮度和音量添加百分比显示的插件。
-Author: iOS Creatix, kasiimh1, p2kdev
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: SugarCane音量-亮度显示百分比-Rootless
-Sponsor: 搬运工
-
-Package: byg.iosios.net.tinge.rootless
-Version: 1.2.2
-Architecture: iphoneos-arm64
-Maintainer: 搬运工
-Depends: firmware (>= 15.0), mobilesubstrate, ws.hbang.alderis
-Conflicts: cpm.dao.tinge.cn
-Filename: debs/Tinge彩色角标-Rootless_1.2.2_iphoneos-arm64.deb
-Size: 60978
-MD5sum: 92ec19113cd86c208bc05b7ee0485339
-SHA1: c741c89aa9c7ef853cb0a30e22a65124b5794eed
-SHA256: 4be1fb64b2d1f40b0c3e55b46726b5604fd29fd9b1dee5941964029c27036bd4
-Section: 杂七杂八
-Description: 一款彩色角标插件，根据你的软件图标颜色来自适应，非常的好看，安装去设置里开启注销即生效，原价0.99美元，现在搬运工源免费使用，效果可以看截图，非常的好看！已汉化！
-Author: P2KDev
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: Tinge彩色角标-Rootless
-Sponsor: 搬运工
-
-Package: cn.llld.flexcopy
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/Flex3Copy-rootless_1.0_iphoneos-arm64.deb
-Size: 7562
-MD5sum: 355fff3bb81bf00bee505a4416b7a856
-SHA1: cae29df55c9f30bfdadfcdbb8e739c0e02ced90d
-SHA256: 5cc92bade9b63ca00a40ced02445b8cd4ba1de3954a4424089dff17740cd2d60
-Section: rootless插件
-Description: Specifically customized for Flex3, long press to copy the description or popup content, combined with translation tools or software, making it convenient for you to understand languages you don't know.（专门为Flex3定制，长按描述或者弹窗复制内容，配合翻译工具或者软件，方便你去了解不懂的语言）
-Author: 来了老弟
-Name: Flex3Copy-rootless
-
 Package: cn.llld.swipeextenderx
 Version: 0.0.2
 Architecture: iphoneos-arm64
@@ -160,79 +53,6 @@ Section: rootless汉化补丁
 Description: SwipeExtenderX汉化，swipeextenderx汉化--(rootess)简体中文包，更新：防止与任何汉化冲突，现在任意装
 Author: 来了老弟
 Name: SwipeExtenderX汉化-rootless
-
-Package: cn.octoforce.copyvault
-Version: 1.5.5
-Architecture: iphoneos-arm64
-Maintainer: SquidForce, Backup
-Installed-Size: 7188
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
-Conflicts: com.squidforce.copyvault
-Filename: debs/CopyVault(激活码版)_1.5.5_iphoneos-arm64.deb
-Size: 3292376
-MD5sum: aa3774df03d661776dea94e4d6868205
-SHA1: 369748604b05ae3d1b460d2578a4f6dd3c9e91e7
-SHA256: e26ad1168765ee390108651e48fb1378a39b1b77bffa7254dce37e123858f32c
-Section: Tweaks
-Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
-Author: SquidForce, Backup
-Name: CopyVault(激活码版)
-Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
-
-Package: cn.zqbb.fix120hz
-Version: 1.2.0-53
-Architecture: iphoneos-arm64
-Maintainer: zqbb
-Installed-Size: 3004
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader, com.opa334.altlist
-Conflicts: cn.zqbb.fix120hz15, com.zqbb.fix120hz, com.zqbb.dynamic120hz
-Filename: debs/Hello 120Hz_1.2.0-53_iphoneos-arm64.deb
-Size: 925744
-MD5sum: aa440f1f5954dd822f7010b7dcd1699c
-SHA1: 43fb46b73ec3c2abf98ccccb8d5f9c1b6433eb0e
-SHA256: ca3537b42259a3150752349c8c7366eb08184559c9bc15c62f247e9d45600071
-Section: Tweaks
-Author: zqbb
-Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.fix120hz
-Name: Hello 120Hz
-Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.fix120hz
-
-Package: cn.zqbb.helloarea
-Version: 0.0.3
-Architecture: iphoneos-arm64
-Maintainer: zqbb
-Installed-Size: 304
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/Hello Area_0.0.3_iphoneos-arm64.deb
-Size: 72862
-MD5sum: 49444fb47f825b144b664630329d25c3
-SHA1: 7dab4189bd628f8bd3785969fd29a2a31e211850
-SHA256: 26fb69a948d8cb0701bcd5ef137139a8dba68cc3b279b65df0ed8ed66bf88d4a
-Section: Tweaks
-Description: 设置底栏高度!
-Author: zqbb
-Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.helloarea
-Name: Hello Area
-Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.helloarea
-
-Package: cn.zqbb.holdcpu
-Version: 2.2.0-3
-Architecture: iphoneos-arm64
-Maintainer: zqbb
-Installed-Size: 2336
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
-Conflicts: com.yourepo.0xash.powercuff, byg.iosios.net.powercuff, com.dao.powercuff, com.rpetrich.powercuff, com.yourepo.0xash.devicemonitor, com.yourepo.0xash.fuckthermal, com.shadow.fuckthermal, com.dao.fuckthermal, byg.iosios.net.monitor, byg.iosios.net.disablethermalmonitord, com.nan.disablethermalmonitord
-Filename: debs/Hello CPU_2.2.0-3_iphoneos-arm64.deb
-Size: 612978
-MD5sum: 258291f2bdcf45229a59e1229964b884
-SHA1: bc3f9bf6626367a12382733b70626a8f907ac33c
-SHA256: 5105f8f68497fd7153c5589571a90bf05fdb6f50dc881cf9dc0168f8b09e2c39
-Section: Tweaks
-Description: (解除温控) (锁定低电量CPU频率)
-Author: zqbb
-Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.holdcpu
-Name: Hello CPU
-Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.holdcpu
 
 Package: com.25mao.leftpan.rootless
 Version: 1.0-6
@@ -310,42 +130,6 @@ Section: Mao
 Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
 Author: HuangBai <QQ:1343309363@qq.com>
 Name: 黄白助手(微信插件)-Rootless
-
-Package: com.amywhile.aemulo
-Version: 1.2.5
-Architecture: iphoneos-arm64
-Maintainer: Amy While <support@anamy.gay>
-Installed-Size: 2224
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
-Conflicts: com.amywhile.aemulotrial
-Filename: debs/Aemulo_1.2.5_iphoneos-arm64.deb
-Size: 826210
-MD5sum: cc0b4dac34c9a9cc480ce362848bf7ba
-SHA1: b008cf94a35dbee576dcda16eafa47b4d83084aa
-SHA256: 93c0075b74805351d64dbc11e61756d623911cf45f5df8a3c3427a2e06d32f8f
-Section: Tweaks
-Description: NFC Frickery
-Author: Amy While <support@anamy.gay>
-Header: https://elihwyma.github.io/Aemulo/assets/Depiction-Header.png
-Icon: https://elihwyma.github.io/Aemulo/assets/Icon.png
-Name: Aemulo
-Native-Depiction: https://elihwyma.github.io/Aemulo/NativeDepiction.json
-
-Package: com.b4db1r3.smartvpn
-Version: 2.5
-Architecture: iphoneos-arm64
-Maintainer: b4db1r3
-Installed-Size: 424
-Depends: mobilesubstrate (>= 0.9.5000), com.kingpuffdaddi.control-center.ccvpn, com.opa334.altlist
-Filename: debs/SmartVPN_2.5_iphoneos-arm64.deb
-Size: 70908
-MD5sum: 95844580dd2ef367b52eb91a364939e4
-SHA1: 863064edbd66243a955a22a0f04fb9b2ba2e1fe1
-SHA256: bef0a3eff05691d9e22082fdc5b9d4e956395e6b6f2d6c39b8840df060b77edd
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: b4db1r3
-Name: SmartVPN
 
 Package: com.curtin.pkc.rootless
 Version: 0.5-9-Beta1
@@ -487,21 +271,6 @@ Description: 锤子助手插件
 Author: DumpApp
 Name: 锤子助手-Rootless
 
-Package: com.hk.choicy.cn.rl
-Version: 1.4.6
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Depends: mobilesubstrate
-Filename: debs/Choicy 简体中文包(rootless)_1.4.6_iphoneos-arm64.deb
-Size: 4384
-MD5sum: 4f2929d15deedb5415d9415919c2c3f8
-SHA1: 9876b9fa41bc81fb2640f859f036cf2a772f9b3e
-SHA256: 318aec0f6f6492ee8f659d5babe619c5027ce6415fa6470d5fd4fd516ea61b64
-Section: 嗨-汉化
-Description: Choicy 简体中文包(rootless)。
-Author: 妖刀
-Name: Choicy 简体中文包(rootless)
-
 Package: com.huami.WCAtPure
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -517,23 +286,6 @@ Description: 让Misaka匿名艾特无处遁形、还你一个干净的微信！
 Author: huami
 Dev: huami
 Name: WCAtPure
-
-Package: com.jontelang.snapper3
-Version: 1.2.1
-Architecture: iphoneos-arm64
-Maintainer: Jonathan Winger-lang
-Installed-Size: 4148
-Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
-Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
-Filename: debs/Snapper 3_1.2.1_iphoneos-arm64.deb
-Size: 1336962
-MD5sum: c7857bdfc299527135156362c47256f8
-SHA1: f73f1562a370b68da453d7887246e2cbe0fdc29a
-SHA256: 82d3652009f95377856468cd9e34b8b34442f46d3180471ddff364d2eb747843
-Section: Tweaks
-Description: Pin screenshots on the screen.
-Author: Jonathan Winger-lang
-Name: Snapper 3
 
 Package: com.ketty.tweaktool
 Version: 0.0.1-813+debug
@@ -566,27 +318,6 @@ Section: Utilities
 Description: An awesome SwiftUI application!
 Author: Ketty Allen
 Name: TweakTool
-
-Package: com.kingpuffdaddi.control-center.ccvpn
-Version: 1.0.6
-Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 187
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
-Filename: debs/CCVPN_1.0.6_iphoneos-arm64.deb
-Size: 19558
-MD5sum: dc024881a241db02763c1eeadeccc3cb
-SHA1: 488c48cea3002a5af96751d0d0f5ece0ef73d604
-SHA256: 292286134ecf4088080fc7ef1790a14923257cb48d4e5d881613ffbad74e6650
-Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
-Description: A Control Center Module to connect/disconnect VPN
-Tag: purpose::extension
-Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
-Dev: kingpuffdaddi
-Icon: file:///Library/ControlCenter/Bundles/CCVPN.bundle/Icon@2x.png
-Name: CCVPN
 
 Package: com.lclrc.hammerit
 Version: 1.7.0
@@ -639,40 +370,6 @@ Author: lenglengyu
 Depiction: https://repo.lenglengyu.top/packageInfo/iapstorefugu.html
 Name: IAPStore-Rootless【内购神器】
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/iapstorefugusileo
-
-Package: com.llld.flexrootless
-Version: 0.0.31
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/Flex3汉化包-rootless_0.0.31_iphoneos-arm64.deb
-Size: 23198
-MD5sum: d8739ee44940a2060faff9a02f2ded36
-SHA1: 6bcd9ad50abf2a4928b47f1ba86ed00a29c085b6
-SHA256: b4a5e304e4a09eb5fc117d89e5ceb8dcc2a0a414640f105939c1246b0bf0d37c
-Section: rootless汉化补丁
-Description: Flex3--(rootless专用)简体中文包
-Author: 来了老弟
-Name: Flex3汉化包-rootless
-
-Package: com.mrgcgamer.libgcuniversal
-Version: 1.7.0
-Architecture: iphoneos-arm64
-Maintainer: MrGcGamer
-Installed-Size: 380
-Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
-Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
-Filename: debs/LibGcUniversal_1.7.0_iphoneos-arm64.deb
-Size: 94392
-MD5sum: ef208047f6a076003aa5185db9e7f734
-SHA1: 7cf1ee73a56dfb3222ce57ea0c432b56f9ff3582
-SHA256: 4610a4c57ff342ce477d3274c518f6b62cd4a4eefdaefff858da2633f3072ca1
-Section: Development
-Description: An awesome library of some sort!!
-Tag: role::developer
-Author: MrGcGamer
-Name: LibGcUniversal
 
 Package: com.netskao.appdata
 Version: 1.4.2
@@ -739,163 +436,6 @@ Description: Display Notification Avatars for WeChat App using iOS15+ APIs
 Author: Netskao
 Name: WeChatNotiAvatar
 
-Package: com.niceios.nicebarx15-rootless
-Version: 1.0.2.9-4
-Architecture: iphoneos-arm64
-Maintainer: niceios
-Installed-Size: 12724
-Depends: mobilesubstrate, com.niceios.nicehelper-rootless (>= 6.5), preferenceloader
-Filename: debs/NiceBarX(iOS15)【Rootless】_1.0.2.9-4_iphoneos-arm64.deb
-Size: 5577098
-MD5sum: 1359eed4820ef4d21822966be53083c1
-SHA1: 60826beb6e6cf80f978791726e1ab4fdcf4cc6d5
-SHA256: ceaa48a3a4d6e65108d5c1967a74207f048845dc77da595135ecdc6d38102b65
-Section: Tweaks
-Description: 状态栏插件.
-Author: niceios
-Name: NiceBarX(iOS15)【Rootless】
-Sponsor: niceios
-
-Package: com.niceios.nicehelper-rootless
-Version: 6.5-2
-Architecture: iphoneos-arm64
-Maintainer: niceios
-Installed-Size: 2612
-Conflicts: com.niceios.nicehelper
-Filename: debs/NiceHelper【Rootless】_6.5-2_iphoneos-arm64.deb
-Size: 986450
-MD5sum: 85bf8f3308ff45ff57c4ecba5bc8afb9
-SHA1: 62ebd8c1f1a6a5a74fd4a1af3505354bbd421ef7
-SHA256: 21e48d5090b7f3157083cfa9ec06e2ca1bcde5c8371214de0492273d38cca54f
-Section: Addons
-Description: nice插件依赖组件.
-Author: niceios
-Name: NiceHelper【Rootless】
-Sponsor: niceios
-
-Package: com.opa334.altlist
-Version: 1.0.11
-Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 256
-Depends: firmware (>= 7.0)
-Filename: debs/AltList_1.0.11_iphoneos-arm64.deb
-Size: 45712
-MD5sum: 285c23d350d4cce164ef92790a78b53d
-SHA1: 5a39f7a13fd1c37663978ccaff5733a2aa42a1c4
-SHA256: 45bda5bbddcdb2423be3c53cdbbb4efad0ad16a84c81b7ef378d88ec73494e55
-Section: Development
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
-Description: A modern AppList alternative
-Tag: purpose::library
-Author: opa334 <opa334@protonmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
-Dev: opa334
-Name: AltList
-Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: com.opa334.ccsupport
-Version: 1.3.13-2
-Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 489
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
-Conflicts: com.ioscreatix.silo
-Replaces: com.ioscreatix.silo
-Provides: com.ioscreatix.silo
-Filename: debs/CCSupport_1.3.13-2_iphoneos-arm64.deb
-Size: 94236
-MD5sum: b5c8a9802c5d46ecd11cedebfb6d4ea1
-SHA1: e3181b22b805c2edf7f33164d69c90c788ee8027
-SHA256: 459b5d018e491e0484cffdb48acbedf04e6314375f7c05c54b92d2a332da8fa4
-Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
-Description: Support tweak for CC modules!
-Tag: purpose::extension
-Author: opa334 <opa334@protonmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
-Dev: opa334
-Name: CCSupport
-Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: com.opa334.choicy
-Version: 1.4.10-3
-Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 814
-Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
-Filename: debs/Choicy_1.4.10-3_iphoneos-arm64.deb
-Size: 154254
-MD5sum: a25d9ddb402b283448d84961929561fe
-SHA1: 2b201b4d00b87324541c7264385cfc103ebc54bb
-SHA256: b9a337be293a76867e403d91dd743d1dcfaa067eb5104b26dbb2759a6319ac70
-Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
-Description: Advanced Tweak Configuration!
-Tag: purpose::extension
-Author: opa334 <opa334@protonmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
-Dev: opa334
-Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
-Name: Choicy
-Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: com.opa334.crane
-Version: 1.3.15-2
-Architecture: iphoneos-arm64
-Maintainer: opa334
-Installed-Size: 3200
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.5), com.opa334.libsandy, com.opa334.libundirect (>= 1.1.4) | firmware (<< 14.0)
-Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
-Filename: debs/Crane_1.3.15-2_iphoneos-arm64.deb
-Size: 938238
-MD5sum: 51170e86212d75c89d14c87fec5ada47
-SHA1: b1e86fdd64bc7c0f4b77ec5a308c252ccc33901b
-SHA256: 9bdb42d90a331932311f67493243742c3acb21befae4f4becbc7e01bb3636a0d
-Section: Tweaks
-Description: Multiple containers for your applications!
-Author: opa334
-Name: Crane
-
-Package: com.opa334.libsandy
-Version: 1.1.4
-Architecture: iphoneos-arm64
-Maintainer: opa334
-Installed-Size: 244
-Conflicts: ws.hbang.stopcrashingpls (<= 1.0.2)
-Filename: debs/libSandy_1.1.4_iphoneos-arm64.deb
-Size: 19306
-MD5sum: 6cba2c671a46b5d32df9f116349afacb
-SHA1: 0a20e5c10b3e947b190c56454c53b49615c2dcf3
-SHA256: cd4cb382f8e9585a586505dc2965af868c249645bc6796c123dd1f6d41ea7c13
-Section: System
-Description: Securely extend the sandbox of system processes and user applications
-Tag: role::developer
-Author: opa334
-Depiction: https://apt.htv123.com/view/94
-Name: libSandy
-Sileodepiction: https://apt.htv123.com/sileo/94
-
-Package: com.opa334.libundirect
-Version: 1.1.6
-Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 177
-Filename: debs/libundirect_1.1.6_iphoneos-arm64.deb
-Size: 13540
-MD5sum: 0272d1f9ef262123d41b373440652fd0
-SHA1: 0a59f7bb37217506e91e1761a72990160b678244
-SHA256: 8b49dfb0cde1e3a728c8c4b175fd4d6ae1949d0004afd3cd6e4f3e115ca6c92e
-Section: Development
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libundirectDp
-Description: Patchfinder and rebinder for objc_direct methods
-Tag: purpose::library
-Author: opa334 <opa334@protonmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libundirectDp
-Dev: opa334
-Name: libundirect
-Sponsor: thebigboss.org <http://thebigboss.org>
-
 Package: com.pingfan.wechat
 Version: 2.2-1
 Architecture: iphoneos-arm64
@@ -929,46 +469,6 @@ Author: MiRO <tweaks_support@miro92.com>
 Depiction: https://chariz.com/get/swipeextenderx
 Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
 Name: SwipeExtenderX
-
-Package: com.skypain.ccautobrightness
-Version: 1.0.0-1
-Architecture: iphoneos-arm64
-Maintainer: Mr.Zhang <mr_zhang_00@163.com>
-Installed-Size: 168
-Depends: com.opa334.ccsupport
-Filename: debs/CCAutoBrightness_1.0.0-1_iphoneos-arm64.deb
-Size: 20950
-MD5sum: 87139ce7112527d0356d46a0cade575d
-SHA1: 4d8eb677ea9c176b61abea6cf1b8fe219f0eed74
-SHA256: d88a06112763744ca7fe49ee00f462f1edbdc279a28c0d6b6ce267f20a5cbc2d
-Section: Control Center (Modules)
-Homepage: https://skypain.github.io/repo/
-Description: 控制中心自动亮度模块
-Author: Mr.Zhang <mr_zhang_00@163.com>
-Depiction: https://skypain.github.io/repo/static/view/?p=ccautobrightness
-Icon: https://skypain.github.io/repo/src/ccautobrightness/Icon.png
-Name: CCAutoBrightness
-Sileodepiction: https://skypain.github.io/repo/src/ccautobrightness/config/sileo/depiction.json
-
-Package: com.skypain.cclocation
-Version: 1.1.0-1
-Architecture: iphoneos-arm64
-Maintainer: Mr.Zhang <mr_zhang_00@163.com>
-Installed-Size: 164
-Depends: com.opa334.ccsupport
-Filename: debs/CCLocation_1.1.0-1_iphoneos-arm64.deb
-Size: 16772
-MD5sum: 7c20a28596a28878eec49e29e9a401fb
-SHA1: d30ae3361a70bb4aba227e3d66d3a9de0daba249
-SHA256: 8b1a68cf47926de73ead8bd5270b70c8ef8c8db2f6328d8abf39446e5257edd3
-Section: Control Center (Modules)
-Homepage: https://skypain.github.io/repo/
-Description: 控制中心定位开关模块
-Author: Mr.Zhang <mr_zhang_00@163.com>
-Depiction: https://skypain.github.io/repo/static/view/?p=cclocation
-Icon: https://skypain.github.io/repo/src/cclocation/Icon.png
-Name: CCLocation
-Sileodepiction: https://skypain.github.io/repo/src/cclocation/config/sileo/depiction.json
 
 Package: com.sunshinesong.split-view-pro
 Version: 1.3.7
@@ -1019,23 +519,6 @@ Description: 注入即生效，没有任何设置。
 Author: 王富贵
 Name: 匿名艾特Carck
 
-Package: com.tigisoftware.filza64bit
-Version: 4.0.1-4
-Architecture: iphoneos-arm64
-Maintainer: TIGI Software
-Installed-Size: 23200
-Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
-Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
-Filename: debs/Filza File Manager 64-bit_4.0.1-4_iphoneos-arm64.deb
-Size: 8851922
-MD5sum: 4d4006b906715d827dbbaf50438a5595
-SHA1: e2f3aceaca1d399e6d57365feb5b504743115b18
-SHA256: e3b55d4d1eb8073db5f468c82e04d24ad25336cb2b877c5d5e339625342f3b24
-Section: Utilities
-Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
-Author: TIGI Software
-Name: Filza File Manager 64-bit
-
 Package: com.udevs.dockx
 Version: 2.6.2
 Architecture: iphoneos-arm64
@@ -1073,79 +556,6 @@ Depiction: https://apt.htv123.com/view/66
 Name: 电话助手iOS15-正式版(完整越狱)
 Sileodepiction: https://apt.htv123.com/sileo/66
 
-Package: com.xybp888.lockbutton
-Version: 0.1-2
-Architecture: iphoneos-arm64
-Maintainer: xybp888
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/一键锁屏(Rootless)_0.1-2_iphoneos-arm64.deb
-Size: 38054
-MD5sum: ae110cf90f0387f7cc728f373973f948
-SHA1: 00782f8d38e1a9df34630a17308eabea41478d9f
-SHA256: 4ca5879a190980709dfc2ad52bb7f33db653e0641c9b8777862105a0ada1d275
-Section: Tweaks
-Priority: optional
-Description: 一键锁屏(Rootless)
-Author: xybp888
-Depiction: https://apt.htv123.com/view/26
-Icon: add You IconFiles URL
-Name: 一键锁屏(Rootless)
-Sileodepiction: https://apt.htv123.com/sileo/26
-
-Package: me.afhook.app
-Version: 3.1.0
-Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 998
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
-Filename: debs/改个应用-专业的应用修改软件_3.1.0_iphoneos-arm64.deb
-Size: 266658
-MD5sum: 7dce323731e29918e8a9fe62d7931178
-SHA1: 866175dea9572f90335f1a09e7b32f6ca01a6cc2
-SHA256: d39e6ca24b45ed54ab40770bb52174c1171246a0674bc0fa3a02adae5954135b
-Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afhookDp
-Description: 快速更改应用的名字、图标、机型、角标、版本号等。
-Tag: purpose::extension
-Author: 小哥哥 <zhulongfei28@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afhookDp
-Dev: zhulongfei28
-Icon: file:///Library/PreferenceBundles/AFSet.bundle/icon.png
-Name: 改个应用-专业的应用修改软件
-Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: mterminal
-Version: 1.6
-Architecture: iphoneos-arm64
-Maintainer: zqbb
-Installed-Size: 464
-Depends: coreutils, firmware (>= 11.0), gettext-localizations, system-cmds, zsh
-Filename: debs/MTerminal - xina_1.6_iphoneos-arm64.deb
-Size: 144880
-MD5sum: 9e05095f26469431045d2b87e708b69f
-SHA1: f67000adff1c22ce080f34319daee1963340c55c
-SHA256: 507b431fa765c0e3acaf94502c34d7ec932f7dbaddc8fc3dc005ba954c748011
-Section: Utilities
-Description: A MobileTerminal fork
-Author: lordscotland <admin@officialscheduler.com>
-Name: MTerminal - xina
-
-Package: netskao.ccpower-rootless
-Version: 1.9-4
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 2424
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport (>= 1.3)
-Filename: debs/CCPower-Rootless_1.9-4_iphoneos-arm64.deb
-Size: 1768478
-MD5sum: 9b94e199dcc22b4d76be807d05bc49ef
-SHA1: 7166b0fa468168892c80fe32c2caecb59c8e206c
-SHA256: 4e07b001aad9dc7297f894640ac8b535daf6c784dfd02ea738c1370bcee8632b
-Section: Netskao-Tweaks
-Description: Control Center Quick Power Tool, Supports iOS11-iOS15
-Author: Netskao
-Name: CCPower-Rootless
-
 Package: netskao.wcpureextension-rootless
 Version: 4.2-6
 Architecture: iphoneos-arm64
@@ -1180,48 +590,6 @@ Section: Netskao-Tweaks
 Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
 Author: Netskao
 Name: 微信净化END
-
-Package: wiki.qaq.chromatic.rootless
-Version: 3.0-rootless-release-1724929206.455643d
-Architecture: iphoneos-arm64
-Maintainer: Saily Team <support.0xa1@qaq.wiki>
-Pre-Depends: firmware (>= 13.0), dpkg, uikittools
-Conflicts: wiki.qaq.chromatic
-Filename: debs/Saily (Rootless)_3.0-rootless-release-1724929206.455643d_iphoneos-arm64.deb
-Size: 4550414
-MD5sum: 3844eedc516f1a58d8634c9b5274b29a
-SHA1: 10ea03e495dfccb854fb71a0261fa59427545247
-SHA256: 8d50eae908b09d94b065913fc2126a1eb445464651208484516c7c3ab1f04baa
-Section: Applications
-Homepage: https://sailyteam.github.io/Saily/index.html
-Description: Modern. Fast. Beautiful.
-Author: Saily Team <support.0xa1@qaq.wiki>
-Depiction: https://sailyteam.github.io/Saily/index.html
-Icon: https://sailyteam.github.io/Saily/Resources/icon.png
-Name: Saily (Rootless)
-Website: https://sailyteam.github.io/Saily/index.html
-
-Package: ws.hbang.alderis
-Version: 1.2.3
-Architecture: iphoneos-arm64
-Maintainer: HASHBANG Productions <support@hbang.ws>
-Installed-Size: 2463
-Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), uikittools
-Replaces: org.thebigboss.libcolorpicker, me.nepeta.libcolorpicker
-Provides: org.thebigboss.libcolorpicker (= 99.0), me.nepeta.libcolorpicker (= 99.0)
-Filename: debs/Alderis Color Picker_1.2.3_iphoneos-arm64.deb
-Size: 582578
-MD5sum: ed1b6faeca72d9834e5aef7989c7f9ec
-SHA1: f7723307d80496709b4968917a6b91b70c664bbc
-SHA256: 3d319cc3ecd9ed4d76a3cb1e7a960bb84e93b6180f8be8c986ecdd4d79fe037b
-Section: Development
-Description: Color picker support library for tweaks
-Tag: role::developer, compatible_min::ios12.0
-Author: HASHBANG Productions <support@hbang.ws>
-Depiction: https://chariz.com/get/alderis
-Icon: https://img.chariz.cloud/icon/alderis/icon@3x.png
-Name: Alderis Color Picker
-Support: https://hashbang.productions/support/
 
 Package: xyz.cypwn.snapper3qolfixes
 Version: 1.0
