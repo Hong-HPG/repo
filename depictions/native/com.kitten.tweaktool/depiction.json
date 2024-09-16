@@ -6,7 +6,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "适合xina和多巴胺越狱的插件及其配置的一键备份恢复工具\n### 使用方法：\nFilza进入/var/mobile/Documents/tweak_tool/目录，运行“一键备份和恢复工具.sh”文件\n### 注意：\nXina用户请使用saily版本控制或者在GitHub的Release处下载1.6.4版本，Dopamine用户随意"
+					"markdown": "测试和多巴胺越狱的插件及其配置的一键备份恢复工具\n### 使用方法：\nFilza进入/var/mobile/Documents/tweak_tool/目录，运行“一键备份和恢复工具.sh”文件\n### 注意：\nXina用户请使用saily版本控制或者在GitHub的Release处下载1.6.4版本，Dopamine用户随意"
 				},
 				{
 					"class": "DepictionSeparatorView"
