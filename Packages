@@ -288,22 +288,6 @@ Dev: huami
 Name: WCAtPure
 
 Package: com.ketty.tweaktool
-Version: 0.0.1-813+debug
-Architecture: iphoneos-arm64
-Maintainer: Ketty Allen
-Installed-Size: 2972
-Depends: firmware (>= 14.0)
-Filename: debs/TweakTool_0.0.1-813+debug_iphoneos-arm64.deb
-Size: 1214938
-MD5sum: ef8ba286d341de1d5ec0907667fc478e
-SHA1: efc59313ec348319df945a2966c416c6d4d4d2b0
-SHA256: cd3a7a33c901987b5ed8350d420428933698b36ab7b5b9652559282079aa11bc
-Section: Utilities
-Description: An awesome SwiftUI application!
-Author: Ketty Allen
-Name: TweakTool
-
-Package: com.ketty.tweaktool
 Version: 0.0.1-851+debug
 Architecture: iphoneos-arm64
 Maintainer: Ketty Allen
@@ -335,23 +319,6 @@ Description: Control your text or translate as you wish.
 Author: lclrc(SquidForce)
 Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
 Name: Hammer It
-
-Package: com.lclrc.squidgesture
-Version: 2.1.6
-Architecture: iphoneos-arm64
-Maintainer: lclrc(SquidForce)
-Installed-Size: 7044
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0), com.opa334.altlist
-Filename: debs/SquidGesture_2.1.6_iphoneos-arm64.deb
-Size: 3024880
-MD5sum: be9c41f86213103cd33c42ca461c0a54
-SHA1: 95804279feeaf01bedd62ed7185e4cfddad7753e
-SHA256: f8d1824676dda43d70d168a5f07c9d76218a15c686a192685b531d33c7313c0c
-Section: Tweaks
-Description: Gestures
-Author: lclrc(SquidForce)
-Icon: file:///var/jb/Library/PreferenceBundles/SquidGesturePrefs.bundle/SquidGesture_icon@3x.png
-Name: SquidGesture
 
 Package: com.lenglengyu.iapstorefugu-rootless
 Version: 0.0.2
@@ -537,24 +504,6 @@ Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
 Name: DockX
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
-
-Package: com.xybp888.callassist15.fugu15
-Version: 2.2.4
-Architecture: iphoneos-arm64
-Maintainer: xybp888
-Depends: firmware (>= 15.0), preferenceloader, com.opa334.libsandy
-Filename: debs/电话助手iOS15-正式版(完整越狱)_2.2.4_iphoneos-arm64.deb
-Size: 4165118
-MD5sum: 3512863ae166fc7d708c67bdd87dc262
-SHA1: 00505fbc84fb5e6de608a82b92b0777ff9cd95d6
-SHA256: 4d6ea4903bc6921efeb37a0a9d4236243beb08b85b8e8860e9d3038069c203a4
-Section: Tweaks
-Priority: optional
-Description: 电话助手授权版本,通话录音,通话记录合并,T9双卡选卡拨号键盘,短信双卡选卡,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
-Author: xybp888
-Depiction: https://apt.htv123.com/view/66
-Name: 电话助手iOS15-正式版(完整越狱)
-Sileodepiction: https://apt.htv123.com/sileo/66
 
 Package: netskao.wcpureextension-rootless
 Version: 4.2-6
