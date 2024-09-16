@@ -136,7 +136,7 @@ Version: 0.5-9
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: debs/PKC_无根_0.5-9.deb
+Filename: debs/PKC_无根_0.5-9正式版.deb
 Size: 572656
 MD5sum: 9aa4227ea72b1acb9c1758af24e7021d
 SHA1: f8f2933f8756a216b74fb1f68bb4f79ad346c0ec
@@ -338,22 +338,6 @@ Section: Utilities
 Description: An awesome SwiftUI application!
 Author: Ketty Allen
 Name: TweakTool
-
-Package: com.kitten.tweaktool
-Version: 1.6.4
-Architecture: iphoneos-arm64
-Maintainer: 预言小猫
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: debs/com.kitten.tweaktool_1.6.4_iphoneos-arm64.deb
-Size: 11074
-MD5sum: feb36b184c0f92a31bcd1fbda90f1ec0
-SHA1: 27d8861a1735887937acd081e9e91f92a68b3173
-SHA256: 9b1118c1d48d84ddec1c6267f3017ea83e09a820f6a2b81a671fafa9d031d90d
-Section: Tweaks
-Description: 适合xina和多巴胺越狱的插件及其配置的一键备份恢复工具
-Author: 预言小猫
-Name: 一键备份和恢复工具-Rootless
-Sileodepiction: https://Ketty0725.github.io/repo/depictions/native/com.kitten.tweaktool/depiction.json
 
 Package: com.kitten.tweaktool
 Version: 2.0.0-beta

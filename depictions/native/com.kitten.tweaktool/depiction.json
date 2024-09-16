@@ -62,7 +62,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\u2023 改进打包算法，实现多进程并发机制，备份时间相较于1代版本节约50%-70%左右\n\t\u2023 由于Filza自带的终端效率偏低，建议使用MTerminal或NewTerm等第三方终端，输入\"sudo tweaktool\"命令运行\n\t\u2023 由于Xina环境存在不可抗力因素，此次更新暂时只适用于Dopamine越狱，Xina用户请谨慎更新\n\t\u2023 使用过程中若出现问题及时反馈，并回退到上一版本",
+					"markdown": "\t\u2023 测试打包算法，实现多进程并发机制，备份时间相较于1代版本节约50%-70%左右\n\t\u2023 由于Filza自带的终端效率偏低，建议使用MTerminal或NewTerm等第三方终端，输入\"sudo tweaktool\"命令运行\n\t\u2023 由于Xina环境存在不可抗力因素，此次更新暂时只适用于Dopamine越狱，Xina用户请谨慎更新\n\t\u2023 使用过程中若出现问题及时反馈，并回退到上一版本",
 					"useSpacing": false,
 					"useBottomMargin": false,
 					"class": "DepictionMarkdownView"
