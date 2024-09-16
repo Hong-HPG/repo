@@ -132,6 +132,24 @@ Author: HuangBai <QQ:1343309363@qq.com>
 Name: 黄白助手(微信插件)-Rootless
 
 Package: com.curtin.pkc.rootless
+Version: 0.5-9
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: debs/PKC_无根_0.5-9.deb
+Size: 572656
+MD5sum: 9aa4227ea72b1acb9c1758af24e7021d
+SHA1: f8f2933f8756a216b74fb1f68bb4f79ad346c0ec
+SHA256: 2be5276c2d29e810f27d6d13e5e7e86d98278a6f44518bb50d3bcc517484f29e
+Section: PKC-插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+
+Package: com.curtin.pkc.rootless
 Version: 0.5-9-Beta1
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
@@ -231,6 +249,24 @@ Size: 572168
 MD5sum: 8a5c76490fd81d71c4d2cfeccdd5cf50
 SHA1: 5c21fb751a7c5a5dc426eedc0d5ab7d0f667f9fb
 SHA256: 8b45cb2505b8aa60f35d32b5eb42ad67ad0d8600c35a2539291f7f08a2ca16c4
+Section: PKC-插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+
+Package: com.curtin.pkc.rootless
+Version: 0.5-9-Beta7
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: debs/PKC_无根_0.5-9-Beta7.deb
+Size: 572288
+MD5sum: 90d01a88ae5828bcef312fe2cc278d74
+SHA1: e8dd088814e9df95768dc7924bd638e46faba9e7
+SHA256: 9b17ccc7b922de4e8d11d07288f5b1b5a26a5ca9101eaf25fe6b10edc318076a
 Section: PKC-插件
 Priority: optional
 Homepage: https://github.com/curtinlv
