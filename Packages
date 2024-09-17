@@ -136,7 +136,7 @@ Version: 0.5-9
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: debs/PKC_无根_0.5-9正式版.deb
+Filename: debs/PKC_无根_0.5-9.deb
 Size: 572656
 MD5sum: 9aa4227ea72b1acb9c1758af24e7021d
 SHA1: f8f2933f8756a216b74fb1f68bb4f79ad346c0ec
@@ -334,6 +334,22 @@ Size: 1099190
 MD5sum: 73ec6f2e02901c3605eed255400a0966
 SHA1: 0692ce324f4390d7c66b33b787b354fce418a4ed
 SHA256: e2647e77943e2947ae17d48894648e0c70fa4dd419150846a2e8bc35b268d6e9
+Section: Utilities
+Description: An awesome SwiftUI application!
+Author: Ketty Allen
+Name: TweakTool
+
+Package: com.ketty.tweaktool
+Version: 0.0.1-853+debug
+Architecture: iphoneos-arm64
+Maintainer: Ketty Allen
+Installed-Size: 3308
+Depends: firmware (>= 14.0)
+Filename: debs/com.ketty.tweaktool_0.0.1-853+debug_iphoneos-arm64.deb
+Size: 1102080
+MD5sum: b6fef79c652b4cfcf42b63f3b5d16879
+SHA1: b44440e27a733cfdb61ecb4065fffb54fb66ff3b
+SHA256: 62b8e1e2b39430e6ebd83ea5b82b3a1ea4f2fbf323ec26f646f180e9d1039a05
 Section: Utilities
 Description: An awesome SwiftUI application!
 Author: Ketty Allen
