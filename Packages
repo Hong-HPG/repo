@@ -18,6 +18,26 @@ Description: Apibug微信文字转语音插件,官网:www.apibug.com
 Author: www.apibug.com
 Name: ApibugTextToVoice
 
+Package: ApibugTextToVoice
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Apibug <apibug6@gmail.com>
+Depends: mobilesubstrate
+Conflicts: ApibugTextToVoice
+Replaces: ApibugTextToVoice
+Provides: ApibugTextToVoice
+Filename: debs/微信文字转语音原神版本- 无根.deb
+Size: 170044
+MD5sum: d37788996fba28c8663b8f711cc3c840
+SHA1: e58df94fbe10b97f904e3895f18ca055e87ca39a
+SHA256: f386ecd8893702ddd1f8512869d6857672c63dfb9c22096cce931ce45ee4d749
+Section: custom
+Priority: optional
+Description: 微信文字转语音原神版,模型运算版本,等待6秒左右合成成功- 官网:www.apibug.com
+Author: Apibug
+Name: ApibugTextToVoice
+
 Package: MisakaHelper
 Version: 2.1-0
 Architecture: iphoneos-arm64
@@ -84,6 +104,21 @@ Section: Mao
 Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
 Author: HuangBai <QQ:1343309363@qq.com>
 Name: 黄白助手(微信插件)-Rootless
+
+Package: com.appku.wechat
+Version: 1.6-3
+Architecture: iphoneos-arm64
+Maintainer: appku
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/爱锋助手1.6-3_无根.deb
+Size: 2828772
+MD5sum: 2b13abf95ca0c5fd215d370de0d975c9
+SHA1: 6c939c95b0611e627370449c961de983be7963be
+SHA256: be488b350fe4c9c983e6afdab4a1664bb7be1105a5e11782e2d0ce9796b2a25f
+Section: Tweaks
+Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,等;修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏、新增朋友圈转发、修改聊天时间以及修改部分bug。
+Author: appku
+Name: 爱锋助手
 
 Package: com.curtin.pkc.rootless
 Version: 0.5-9-Beta1
@@ -315,6 +350,22 @@ Author: huami
 Dev: huami
 Name: WCAtPure
 
+Package: com.initnil.wcenableshowcontactaddcreatetime
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: INITNIL
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: debs/com_initnil_wcenableshowcontactaddcreatetime_1_1_1_iphoneos_arm64.deb
+Size: 3802
+MD5sum: 19f77e2cb117db09d3c5738b13000db4
+SHA1: e1e30162f0391720bdf3b618ffb7422dc065fe62
+SHA256: 07bc1cd438e54819c8c31bce63e713b0917e548baf259227f1d21e3751b23a1b
+Section: Tweaks
+Description: WeChat Enable Testing Show Contact Add CreateTime v8.0.51+
+Author: INITNIL
+Name: WCEnableShowContactAddCreateTime
+
 Package: com.netskao.wechatnotiavatar
 Version: 1.2-5
 Architecture: iphoneos-arm64
@@ -377,6 +428,22 @@ SHA256: 675fc8b520361e93fa4ac2101f262a893948b864deb9f54042e8d5af2caf3320
 Description: 注入即生效，没有任何设置。
 Author: 王富贵
 Name: 匿名艾特Carck
+
+Package: com.yi.wcenablemomentslivephoto
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: 怡点日常
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: debs/com.yi.wcenablemomentslivephoto_1.1-2_iphoneos-arm64.deb
+Size: 12746
+MD5sum: 2468739de2f1eea1d229a6450b41009e
+SHA1: d42654bc8bab9ab56be3c723535861ff3bc650f0
+SHA256: cb73335a2bffb3661274c0ba3575537c7d1241e95be7057f4ba1050830412ef0
+Section: Tweaks
+Description: WeChat Enable Testing Moments Live Photo v8.0.51+
+Author: 怡点日常
+Name: WCEnableMomentsLivePhoto
 
 Package: netskao.wcpureextension-rootless
 Version: 4.2-6
